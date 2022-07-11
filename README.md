@@ -8,3 +8,6 @@ Second Level design :-
 
 ![SecondLevelCaperOrb](https://user-images.githubusercontent.com/84356050/178349409-1abc1ec2-1c31-4854-9001-780fe47191e4.png)
 
+Third Level design :-
+
+![ThirdLevelCaperOrb](https://user-images.githubusercontent.com/84356050/178349574-aa350911-e7ea-4cf0-b205-d9d1184965b4.png)
