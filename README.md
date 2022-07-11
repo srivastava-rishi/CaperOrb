@@ -2,10 +2,13 @@
  
   Info:-
   
-  Caper orb is a 2d game, which allows users to interact with the game using orb. 
-	Caper orb has an alluring design and comprises of  various snags and hindrances which provides one with experience .
-  The game will allow even non-gamers to indulge into this simple and unique game because of intuitive easy controls. 
-  The main goal of the user is to collect coins while avoiding challenges, and completing level within a given frame of time.
+ Caper orb is a 2d game, which allows users to interact with the game using orb. 
+  
+ It has an alluring design and comprises of  various snags and hindrances which provides one with experience.
+  
+ The game will allow even non-gamers to indulge into this simple and unique game because of intuitive easy controls. 
+  
+ The main goal of the user is to collect coins while avoiding challenges, and completing level within a given frame of time.
 
 
 First Level design :-
